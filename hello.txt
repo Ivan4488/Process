@@ -1,0 +1,9 @@
+Hello, this is a test file for the upload to production process.
+
+Steps:
+- Step 1: Create some uncommitted work
+- Step 2: Run Upload to Production
+- Step 3: All steps pass
+- Step 4: PR gets reviewed and merged
+
+Status: main — deployment checklist updated
